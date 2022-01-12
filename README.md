@@ -5,3 +5,4 @@
 - https://github.com/EmYiQing/Burpsuite-UAScan
 - https://github.com/lantongxue/BurpSuiteProLoader
 - https://github.com/bit4woo/knife
+- https://github.com/x1a0t/Struts2Burp
