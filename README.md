@@ -2,7 +2,6 @@
 抓包神器BurpSuite及其插件！
 
 - https://github.com/topics/burpsuite
-
 - https://github.com/ScriptKid-Beta/Unexpected_information
 - https://github.com/EmYiQing/Burpsuite-UAScan
 - https://github.com/lantongxue/BurpSuiteProLoader
@@ -15,3 +14,4 @@
 - https://github.com/1N3/IntruderPayloads
 - https://github.com/yaklang/yakit
 - https://github.com/silentsignal/burp-log4shell
+- https://github.com/projectdiscovery/nuclei-burp-plugin
