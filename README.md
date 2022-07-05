@@ -16,3 +16,4 @@
 - https://github.com/silentsignal/burp-log4shell
 - https://github.com/projectdiscovery/nuclei-burp-plugin
 - https://github.com/metaStor/SpringScan
+- https://github.com/F6JO/RouteVulScan
