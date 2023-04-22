@@ -17,3 +17,4 @@
 - https://github.com/projectdiscovery/nuclei-burp-plugin
 - https://github.com/metaStor/SpringScan
 - https://github.com/F6JO/RouteVulScan
+- https://github.com/aress31/burpgpt
